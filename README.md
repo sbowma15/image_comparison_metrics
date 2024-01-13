@@ -1,4 +1,5 @@
 Image Comparison Program
+
 This Python program is designed to compare an original image with itself to establish the values of a "perfect" image. Subsequently, these perfect image values are used for comparison with four altered copies of the original image. The comparisons involve mean square root values, structural similarity values, and peak signal-noise ratio.
 
 Description:
